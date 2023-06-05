@@ -1,6 +1,6 @@
 LISTAGEM-POKÉMON
 
-Listagem com interações de cards e botão para modo noturno.
+- Listagem com interações de cards e botão para modo noturno.
 
 
 Tecnologias utilizadas:
